@@ -1,1 +1,1 @@
-#Elastic Web Application using Hybrid Cloud
+Elastic Web Application using Hybrid Cloud
