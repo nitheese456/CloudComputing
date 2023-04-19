@@ -1,1 +1,5 @@
-hi
+requests
+boto3
+torch
+numpy
+torchvision
