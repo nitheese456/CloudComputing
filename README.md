@@ -59,7 +59,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 This section contains instructions on setting up the project locally.
 To get a local copy up and running follow these simple steps.
 
-There are two folders, web-tier and app-tier each containing their separate dependencies and code.
+There are two folders inside the project1 folder, web-tier and app-tier each containing their separate dependencies and code.
 To install the required dependencies, run
 
 ```
